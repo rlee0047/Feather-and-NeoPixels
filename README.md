@@ -1,2 +1,2 @@
 # Feather-and-NeoPixels
-Created and modified code for the Adafruit Feather and NeoPixel Wing 
+My created code for the Adafruit's Feather's and NeoPixel Wing. 
