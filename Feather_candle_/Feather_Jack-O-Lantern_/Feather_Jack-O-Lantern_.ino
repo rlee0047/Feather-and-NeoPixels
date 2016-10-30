@@ -38,7 +38,7 @@ void setup() {
   strip.show();// Start with all pixels off
 }
 
-uint8_t prev = 128;  // Start brightness in middle
+uint8_t prev = 0;  // Start with all pixels off
 
 void loop() {
   uint8_t lvl = random(64, 192); // End brightness at 128±64
