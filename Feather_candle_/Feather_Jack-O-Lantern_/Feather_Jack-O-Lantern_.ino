@@ -3,7 +3,8 @@
 
   Created by Phillip Burgess 
   October 14, 2016 
-  Orginal code found her 
+  Orginal code found here
+ 
   https://learn.adafruit.com/circuit-playground-jack-o-lantern
 
   Edited by Ryan Lee
